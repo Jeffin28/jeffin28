@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...anyone
 - 🤔 I’m looking for help with ...azure_pubsub_ESP8266😤
 - 💬 Ask me about ...Anything on my domain
-- 📫 How to reach me: [My linkedin](linkedin.com/in/jeffin-mathew-28j)
+- 📫 How to reach me: [My linkedin](http://linkedin.com/in/jeffin-mathew-28j)
 - 😄 Pronouns: jeff/jeffin 😎 
 - ⚡ Fun fact: Still learning😜
 
