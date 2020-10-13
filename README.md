@@ -4,7 +4,6 @@
   <img src="Cloud.jpg" width="700" align="center">
 </p 
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Embedded & cloud computing
