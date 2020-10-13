@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 # Skills & Endorsements
 
+* Microcontrollers
 * Electronics
 * Cloud Computing
 * Internet Protocol Suite (TCP/IP)
