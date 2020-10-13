@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi im working here... 👋
 
-<!--
-**Jeffin28/jeffin28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...Embedded & cloud computing
+- 🌱 I’m currently learning ...Azure|Aws|Ibm|Cloud computing
+- 👯 I’m looking to collaborate on ...anyone
+- 🤔 I’m looking for help with ...azure_pubsub_ESP8266😤
+- 💬 Ask me about ...Anything on my domain
+- 📫 How to reach me: [My linkedin](linkedin.com/in/jeffin-mathew-28j)
+- 😄 Pronouns: jeff/jeffin 😎 
+- ⚡ Fun fact: Still learning😜
+
+# Skills & Endorsements
+
+* Electronics
+* Cloud Computing
+* Internet Protocol Suite (TCP/IP)
+* ESP8266
+* Arduino
+* Azure IoT,AWS IoT,IBM Watson
+* EasyEDA
+* MQTT,HTTP,AES,HTTPS,Arduino JSON
+* C , C++ , Embedded C
