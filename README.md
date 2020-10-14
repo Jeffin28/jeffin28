@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello im Jeffin
 #### Im a R&D embedded engineer
-![Im an R&D embedded engineer](https://jeffin28.github.io/github-profile-readme-generator/backgrdnd.png)
+![Im an R&D embedded engineer](backgrdnd.png)
 
 Research And Development Engineer who skilled in Embedded C,C,C++ and Low level driver development.
 
