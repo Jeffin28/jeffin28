@@ -1,7 +1,7 @@
 ### Hi im working here... 👋
 
 <p align="center">
-  <img src="Cloud.jpg" width="700" align="center">
+  <img src="backgrdnd.png" width="700" align="center">
 </p 
 
 Here are some ideas to get you started:
