@@ -29,14 +29,15 @@ Skills: AWS / AZURE /ESP8266 / ARDUINO / C / C++ / CLOUD COMPUTING / WIFI PROTOC
 - 🔭 I’m currently working on ...Embedded & cloud computing  
 - 🌱 I’m currently learning ...Azure | Aws | Ibm | Cloud computing 
 - 👯 I’m looking to collaborate on ... anyone😄  
-- 🤔 I’m looking for help with azure_pubsub_ESP8266 with AWS..more clearly listening on multiple port!!😤 
-- 💬 Ask me about on my domain 
+- 🤔 I’m looking for help with..... azure_pubsub_ESP8266 with AWS..more clearly listening on multiple encrypted port!!😤 
+- 💬 Ask me about...anything on my domain 
 - 📫 How to reach me: [My linkedin](http://linkedin.com/in/jeffin-mathew-28j) 
 - 😄 Pronouns: jeff/jeffin 😎 
 - ⚡ Fun fact: Still learning😜 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeffin28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeffin-mathew-28j/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jeffin.mathew.92)  
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
