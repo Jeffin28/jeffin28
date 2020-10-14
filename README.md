@@ -26,7 +26,7 @@ Skills: AWS / AZURE /ESP8266 / ARDUINO / C / C++ / CLOUD COMPUTING / WIFI PROTOC
 - 🔭 I’m currently working on ...Embedded & cloud computing  
 - 🌱 I’m currently learning ...Azure | Aws | Ibm | Cloud computing 
 - 👯 I’m looking to collaborate on ... anyone😄  
-- 🤔 I’m looking for help with azure_pubsub_ESP8266 with AWS..more clearly listening on multiple port!!😤 
+- 🤔 I’m looking for help with azure_pubsub_ESP8266 with AWS..more clearly listening on multiple encrypted port!!😤 
 - 💬 Ask me about on my domain 
 - 📫 How to reach me: [My linkedin](http://linkedin.com/in/jeffin-mathew-28j) 
 - 😄 Pronouns: jeff/jeffin 😎 
