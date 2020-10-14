@@ -43,6 +43,6 @@ Skills: AWS / AZURE /ESP8266 / ARDUINO / C / C++ / CLOUD COMPUTING / WIFI PROTOC
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/jeffin28&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/jeffin28)  
+![GitHub metrics](https://metrics.lecoq.io/jeffin28)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/jeffin28)  
+![Profile views](https://gpvc.arturio.dev/jeffin28)  
