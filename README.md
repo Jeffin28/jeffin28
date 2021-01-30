@@ -13,7 +13,7 @@ Research And Development Engineer who skilled in Embedded C,C,C++ and Low level 
 * Electronics
 * Cloud Computing
 * Internet Protocol Suite (TCP/IP)
-* ESP8266,ESP WROOM 32
+* ESP8266 , ESP WROOM 32
 * Arduino
 * Azure IoT,AWS IoT,IBM Watson
 * EasyEDA
