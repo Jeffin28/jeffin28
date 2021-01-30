@@ -13,18 +13,18 @@ Research And Development Engineer who skilled in Embedded C,C,C++ and Low level 
 * Electronics
 * Cloud Computing
 * Internet Protocol Suite (TCP/IP)
-* ESP8266
+* ESP8266,ESP WROOM 32
 * Arduino
 * Azure IoT,AWS IoT,IBM Watson
 * EasyEDA
 * MQTT,HTTP,AES,HTTPS,Arduino JSON
 * C , C++ , Embedded C
 
-Works in Research and Development (R&D), Internet of Things, AWS , AWS IoT , AWS API Gateway , AWS Lambda , ESP8266 and ARM cortex,PCB design (Familiar with EDA tools) and interfacing with sensors using USB, I2C, SPI, GPIO,UART and experience in IDEs like Kiel & Arduino.
+Works in Research and Development (R&D), Internet of Things, AWS , AWS IoT , AWS API Gateway , AWS Lambda , ESP8266 , ESP WROOM 32 and ARM cortex,PCB design (Familiar with EDA tools) and interfacing with sensors using USB, I2C, SPI, GPIO,UART and experience in IDEs like Kiel & Arduino.
 
 Experimented Azure IoT hub and IBM WATSON cloud console publish and subscribe methods.
 
-Skills: AWS / AZURE /ESP8266 / ARDUINO / C / C++ / CLOUD COMPUTING / WIFI PROTOCOLS
+Skills: AWS / AZURE /ESP8266 /ESP WROOM 32 / ARDUINO / C / C++ / CLOUD COMPUTING / WIFI PROTOCOLS
 
 - 🔭 I’m currently working on ...Embedded & cloud computing  
 - 🌱 I’m currently learning ...Azure | Aws | Ibm | Cloud computing 
