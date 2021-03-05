@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/jeffin28) 
 
-Research And Development Engineer who skilled in Embedded C,C,C++ and Low level driver development.
+Research And Development Engineer who skilled in Embedded C , C , C++ and Low level driver development.
 
 # Skills & Endorsements
 
