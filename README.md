@@ -1,5 +1,5 @@
 ### Hi there 👋, Hello im Jeffin
-#### Im a R&D embedded engineer
+#### I'm a R&D Embedded Software Engineer
 
 ![Im an R&D embedded engineer](backgrdnd.png)
 
