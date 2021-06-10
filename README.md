@@ -18,7 +18,7 @@ Research And Development Engineer who skilled in Embedded C , C , C++ and Low le
 * Azure IoT,AWS IoT,IBM Watson
 * EasyEDA
 * MQTT,HTTP,AES,HTTPS,Arduino JSON
-* C , C++ , Embedded C
+* C , C++ , Embedded C , Embedded ML (TinyML)
 
 Works in Research and Development (R&D), Internet of Things, AWS , AWS IoT , AWS API Gateway , AWS Lambda , ESP8266 , ESP WROOM 32 and ARM cortex,PCB design (Familiar with EDA tools) and interfacing with sensors using USB, I2C, SPI, GPIO,UART and experience in IDEs like Kiel & Arduino.
 
