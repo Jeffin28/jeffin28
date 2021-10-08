@@ -1,7 +1,6 @@
 ### Hi there 👋, Hello im Jeffin
 #### I'm a R&D Embedded Software Engineer
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ![Im an R&D embedded engineer](backgrdnd.png)
 
