@@ -19,19 +19,20 @@ Research And Development Engineer who skilled in Embedded C , C , C++ and Low le
 * Azure IoT,AWS IoT,IBM Watson
 * EasyEDA
 * MQTT,HTTP,AES,HTTPS,Arduino JSON
-* C , C++ , Embedded C , Embedded ML (TinyML)
+* C , Embedded C , Embedded ML (TinyML)
 * AUTOSAR , Diag , DCM , Cybersecurity
 
 Works in Research and Development (R&D), Internet of Things, AWS , AWS IoT , AWS API Gateway , AWS Lambda , ESP8266 , ESP WROOM 32 and ARM cortex,PCB design (Familiar with EDA tools) and interfacing with sensors using USB, I2C, SPI, GPIO,UART and experience in IDEs like Kiel & Arduino.
 
+Now hustline through AUTOSAR and cyber topics to get established 😂
+
 Experimented Azure IoT hub and IBM WATSON cloud console publish and subscribe methods.
 
-Skills: AWS / AZURE /ESP8266 /ESP WROOM 32 / ARDUINO / C / C++ / CLOUD COMPUTING / WIFI PROTOCOLS
+Skills: AWS / AZURE /ESP8266 /ESP WROOM 32 / ARDUINO / C / CLOUD COMPUTING / WIFI PROTOCOLS / AUTOSAR / DCM / Cybersecurity
 
-- 🔭 I’m currently working on ...Embedded & cloud computing  
-- 🌱 I’m currently learning ...Azure | Aws | Ibm | Cloud computing 
+- 🔭 I’m currently working on ...Embedded AUTOSAR & cloud computing  
+- 🌱 I’m currently learning ...Azure | Aws | Ibm | Cloud computing | Cybersecurity
 - 👯 I’m looking to collaborate on ... anyone😄  
-- 🤔 I’m looking for help with..... azure_pubsub_ESP8266 with AWS..more clearly listening on multiple encrypted port!!😤 
 - 💬 Ask me about...anything on my domain 
 - 📫 How to reach me: [My linkedin](http://linkedin.com/in/jeffin-mathew-28j) 
 - 😄 Pronouns: jeff/jeffin 😎 
